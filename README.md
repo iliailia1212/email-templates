@@ -106,7 +106,7 @@ email
   })
   .then(res => {
     console.log('res.originalMessage', res.originalMessage)
-  });
+  })
   .catch(console.error);
 ```
 
